@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Tus extensiones de VS Code, sin VS Code. Y con IA gratis dentro.</strong></p>
 
-<p align="center">Versión 1.16.1 · Windows 10/11 (64 bits) · GPL-3.0-or-later</p>
+<p align="center">Versión 1.16.2 · Windows 10/11 (64 bits) · GPL-3.0-or-later</p>
 
 ---
 
